@@ -4,7 +4,7 @@ import org.usfirst.frc.team839.robot.Robot;
 import org.usfirst.frc.team839.robot.RobotMap;
 
 import com.ctre.phoenix.motorcontrol.can.BaseMotorController;
-import com.kauailabs.navx.frc.AHRS;
+//import com.kauailabs.navx.frc.AHRS;
 import com.ctre.phoenix.sensors.PigeonIMU;
 import com.ctre.phoenix.sensors.PigeonIMU.GeneralStatus;
 
